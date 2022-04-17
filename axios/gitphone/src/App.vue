@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <p>你好吗</p>
     <git-text :addTitle="addTitle" :gitUsers="gitUsers"/>
     <git-list :info="info"/>
   </div>
